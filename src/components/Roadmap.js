@@ -1,5 +1,4 @@
 import React from "react";
-import imageRoadmap from './../assert/img/about.jpg'
 const Roadmap = () => {
     return (
         <>
